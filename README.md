@@ -81,7 +81,7 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[TrueID](https://trueid.id/categories/O0JV8ggnKvK0/)|Indonesia|Indonesian sub/dub|All dub based on TV version|
 |[Tubi TV](https://tubitv.com/)|North America|Japanese dub with English subtitle|Free with advertisement.|
 |[U-NEXT](https://video.unext.jp/)|Japan|Japanese|All-in-one streaming: movie, anime, TV dorama, manga, magazine, novel, light novel.|
-|[VRV](https://vrv.co/)|United States|English subtitle/dub|Content provided by Crunchyroll and HiDive|
+|[VRV](https://vrv.co/)|United States|English subtitle/dub|Content provided by Crunchyroll|
 |[Viewster](https://www.viewster.com/genre/58/anime/)||||
 |[Vimeo](https://vimeo.com/)|Worldwide || Has some indie anime, content availability per country depends on content holder|
 |[VIZ](https://www.viz.com/watch)|Canada and US|English subtitle and/or dub|Free to watch; Anime licensed by VIZ Media; Used to be Neon Alley|
